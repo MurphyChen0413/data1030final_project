@@ -7,8 +7,6 @@ This project develops a supervised machine learning pipeline to predict used-car
 The dataset used in this project is the **DVM-CAR** dataset, a public collection of used-car listings from UK online advertisements.  
 If the dataset is too large to be stored directly on GitHub, it can be obtained from:
 
-> *(Insert dataset link here if needed)*
-
 ## Methods
 
 The modeling pipeline includes:
