@@ -2,18 +2,6 @@
 
 This project develops a supervised machine learning pipeline to predict used-car prices in the UK market. Using a large public dataset of online vehicle listings, the project compares linear and nonlinear models and applies modern interpretability techniques to understand the drivers of price variation.
 
-## Project Structure
-Project Structure
-├── data/
-├── figures/
-├── results/
-├── report/
-├── src/
-├── .gitignore
-├── LICENSE
-└── README.md
-
-
 ## Data
 
 The dataset used in this project is the **DVM-CAR** dataset, a public collection of used-car listings from UK online advertisements.  
