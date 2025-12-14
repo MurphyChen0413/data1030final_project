@@ -4,11 +4,11 @@ This project develops a supervised machine learning pipeline to predict used-car
 
 ## Project Structure
 Project Structure
-├── data/        # Raw and preprocessed datasets
-├── figures/     # Generated plots and visualizations
-├── results/     # Model predictions and evaluation outputs
-├── report/      # Final project report (PDF)
-├── src/         # Source code and analysis scripts
+├── data/
+├── figures/
+├── results/
+├── report/
+├── src/
 ├── .gitignore
 ├── LICENSE
 └── README.md
